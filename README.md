@@ -19,7 +19,7 @@ At the beginning of the task, the bot will be placed at the start node. The goal
 
 ## Phase 2:
 
-The bot will start from the start node. Shapes printed on an A4 sheet will be shown to the laptop camera. Your task is to read and decode the X and Y coordinates of the target node from the shapes (For more details, refer Image Processing Guidelines section). The bot then has to move to the decoded target node and wait there until another set of shapes is shown. This will specify the next target node.
+The bot will start from the start node. Shapes printed on an A4 sheet will be shown to the laptop camera. Your task is to read and decode the X and Y coordinates of the target node from the shapes (For more details, refer Image Processing Guidelines in the problem statement pdf attached). The bot then has to move to the decoded target node and wait there until another set of shapes is shown. This will specify the next target node.
 This process will be repeated two more times with different shapes. Shapes corresponding to the Start Node will be shown at the end, which implies that the bot must return to the starting node.
 
 ## Phase 3:
